@@ -43,7 +43,7 @@ Github 地址：https://github.com/Dyuzz/Gatsby-Blog-Starter-Dyuzz，若喜欢�
 1. 流畅滑动设计 (基于[smooth-scroll](https://github.com/cferdinandi/smooth-scroll))
 1. pagination设计
 
-![手机浏览器](/ImagesAll/NetlifyUpload/1-3.png)
+![手机浏览器](./static/ImagesAll/NetlifyUpload/1-3.png)
 
 ## 使用该Blog的前提条件
 
