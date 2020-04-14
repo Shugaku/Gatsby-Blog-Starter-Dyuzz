@@ -1,0 +1,69 @@
+{
+  "url": "https://www.dyuzz.club",
+  "meta": {
+    "favicon": "/favicons/android-chrome-512x512.png",
+    "keyword": "Dyuzz, blog, C++",
+    "description": "Dyuzz's Blog",
+    "theme_color": "#384f7c",
+    "google_site_verification": "W1hBc-SbXdxFE8WFVLQKrnZttibpd_-G3ZY78q6PVBI"
+  },
+  "name": "Dyuzz",
+  "about": "/2020/03/28/about-Dyuzz/",
+  "email": "706940134@qq.com",
+  "stats": {
+    "image": "/favicons/android-chrome-512x512.png",
+    "title": "之前一个月",
+    "description": "之前一个月"
+  },
+  "title": "Dyuzz's Blog'",
+  "gitalk": {
+    "repo": "GiTalkofBlog",
+    "admin": ["Dyuzz"],
+    "owner": "Dyuzz",
+    "clientID": "87d4a6c4cff21c86b78d",
+    "clientSecret": "637022368bae579a60733e26166dc01a820deff5",
+    "pagerDirection": "first",
+    "distractionFreeMode": true
+  },
+  "License": "by",
+  "friends": [
+    {
+      "href": "https://www.dyuzz.club",
+      "title": "Dyuzz's Blog"
+    }
+  ],
+  "iconUrl": "/favicons/android-chrome-512x512.png",
+  "wordings": ["C++, GIS", "Non professional developer"],
+  "gaTrackId": "UA-162429439-1",
+  "navbarList": [
+    {
+      "href": "/guestbook/",
+      "title": "Comments"
+    },
+    {
+      "href": "/tags/",
+      "title": "Tags"
+    },
+    {
+      "href": "/2020/03/28/about-Dyuzz/",
+      "title": "About-ME"
+    }
+  ],
+  "redirectors": [
+    {
+      "toPath": "/2020/03/28/about-Dyuzz/",
+      "fromPath": "/about/"
+    }
+  ],
+  "gaOptimizeId": "GTM-WHP7SC5",
+  "carouselItems": [
+    {
+      "src": "/favicons/android-chrome-512x512.png",
+      "target": "/stats/"
+    }
+  ],
+  "zhihuUsername": "Dyuzz",
+  "githubUsername": "Dyuzz",
+  "maxPostsInPage": 10,
+  "facebook": "Dyuzz"
+}

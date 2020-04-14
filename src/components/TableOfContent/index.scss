@@ -1,0 +1,48 @@
+@import "../../styles/colors";
+.toc-css {
+  margin-top: 30px;
+  color: black;    
+  border-left: #eee 4px solid;
+  padding-left: 12px;
+  // Level 2
+  ul {
+    font-weight:normal ;
+    padding-left: 8px; 
+    color: $cyan-blue;  
+    li {
+      list-style-type: disc;
+      list-style-position: outside;
+      p {
+        margin-bottom: 0;
+      }
+
+      a {
+        color: $cyan-blue;
+        font-size: 1em;
+
+        &:hover {
+          color: darken($cyan-blue, 40%);
+        }
+      }
+    }
+  }
+}
+
+  // Medium devices (tablets, less than 992px)
+  @media (max-width: 991.98px) {
+    .toc-css {
+      display: none;
+    }
+  }
+
+
+  // For Pc
+  @media (min-width: 992px) {
+    .toc-css {
+      position: sticky; 
+      top: 55px;
+      max-height: 550px;
+      overflow: auto;
+    }
+  }
+

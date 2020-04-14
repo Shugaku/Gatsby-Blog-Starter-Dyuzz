@@ -1,0 +1,17 @@
+@import "../../../styles/hover.scss";
+
+.nav-btn {
+  @extend %hover;
+  color: white;
+  .navbar-nav & {
+    color: $white;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .nav-btn {
+    .navbar-nav & {
+        color: $light-blue;
+  	}
+  }
+}

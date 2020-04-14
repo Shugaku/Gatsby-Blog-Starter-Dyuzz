@@ -1,0 +1,45 @@
+.header-tag {
+  float: left;
+  height: 26px;
+  line-height: 24px;
+  position: relative;
+  font-size: 14px;
+  margin: 5px 20px;
+  padding: 0 10px 0 12px;
+  background: #e2f8f8;
+  color: #00bdb6;
+  text-decoration: none;
+  border-radius: 0 4px 4px 0;
+
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -12px;
+    width: 0;
+    height: 0;
+    border-color: transparent #e2f8f8 transparent transparent;
+    border-style: solid;
+    border-width: 12px 12px 14px 0;
+  }
+
+  &:after {
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 0;
+    width: 4px;
+    height: 4px;
+    border-radius: 2px;
+    background: #fff;
+    box-shadow: -1px -1px 2px #004977;
+  }
+
+  &:hover {
+    $color: #e4e4e4;
+    background: $color;
+    &:before {
+      border-color: transparent $color transparent transparent;
+    }
+  }
+}
