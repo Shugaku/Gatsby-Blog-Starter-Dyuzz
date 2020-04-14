@@ -4,7 +4,7 @@
 [![Accept Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dyuzz/Gatsby-Blog-Starter-Dyuzz/pulls)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/69c4fc63-9bed-44e4-aee4-77ceb456f770/deploy-status)](https://app.netlify.com/sites/dyuzz/deploys)
 
-[简体中文](README-ZH-CN.md) | [English](README.md)
+[简体中文](README_ZH_CN.md) | [English](README.md)
 
 ![Home Page](static/ImagesAll/NetlifyUpload/1-1.png)
 ![Home Page2](static/ImagesAll/NetlifyUpload/1-2.png)
