@@ -16,7 +16,7 @@
 
 开源之道，有取有还，现将可以一键部署、启动的[Gatsby Blog Starter Dyuzz](https://github.com/Dyuzz/Gatsby-Blog-Starter-Dyuzz)博客框架开源，欢迎大家通过这个[Starter](https://github.com/Dyuzz/Gatsby-Blog-Starter-Dyuzz)搭建与[Dyuzz's Blog](https://www.dyuzz.club)相同或相似的Blog平台。
 
-Github 地址：https://github.com/Dyuzz/Gatsby-Blog-Starter-Dyuzz，若喜欢此框架，请给个star，starer多的话将会是一种动力促使我持续更新。
+Github 地址：https://github.com/Dyuzz/Gatsby-Blog-Starter-Dyuzz  若喜欢此框架，请给个star，starer多的话将会是一种动力促使我持续更新。
 
 ![Home Page](static/ImagesAll/NetlifyUpload/1-1.png)
 ![Home Page2](static/ImagesAll/NetlifyUpload/1-2.png)
