@@ -1,7 +1,7 @@
 ## [Gatsby-Blog-Starter-Dyuzz](https://www.dyuzz.club) 
 
 [![GitHub license](https://img.shields.io/github/license/calpa/gatsby-starter-calpa-blog.svg)](https://github.com/calpa/gatsby-starter-calpa-blog/blob/master/LICENSE)
-[![Accept Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/calpa/gatsby-starter-calpa-blog/pulls)
+[![Accept Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dyuzz/Gatsby-Blog-Starter-Dyuzz/pulls)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/69c4fc63-9bed-44e4-aee4-77ceb456f770/deploy-status)](https://app.netlify.com/sites/dyuzz/deploys)
 
 [简体中文](README-ZH-CN.md) | [English](README.md)
