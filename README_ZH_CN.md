@@ -1,3 +1,11 @@
+## [Gatsby-Blog-Starter-Dyuzz](https://www.dyuzz.club) 
+
+[![GitHub license](https://img.shields.io/github/license/calpa/gatsby-starter-calpa-blog.svg)](https://github.com/calpa/gatsby-starter-calpa-blog/blob/master/LICENSE)
+[![Accept Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dyuzz/Gatsby-Blog-Starter-Dyuzz/pulls)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/69c4fc63-9bed-44e4-aee4-77ceb456f770/deploy-status)](https://app.netlify.com/sites/dyuzz/deploys)
+
+[简体中文](README_ZH_CN.md) | [English](README.md)
+
 ## 写在前面
 
 由于学习和工作的需要，要不断学习各种新技术或工具过，学的快，但是忘的也快。因此，早在数年以前，就有了写Blog的想法，一方面是为了记录、总结学习过程以防遗忘，另一方面希望分享自己浅薄的知识，或许可为他人带来一点思路。目前，常见的Blog平台，如CSDN、博客园、新浪、简书等，页面均包含大量广告，臃肿、丑陋且个性化程度低，这一点让我无法接受。当前，我也不是针对哪个平台，我想说的是上面的平台全都是垃圾，为什么要自己总结的知识为这些无良平台创造广告流量呢？前一段时间，用简书写过几篇Blog，但是不到一个月就因敏感词被永久封禁，这愈加坚定了我自建Blog网站的想法。  
@@ -10,7 +18,8 @@
 
 Github 地址：https://github.com/Dyuzz/Gatsby-Blog-Starter-Dyuzz，若喜欢此框架，请给个star，starer多的话将会是一种动力促使我持续更新。
 
-![Dyuzz'Blog主界面](/ImagesAll/NetlifyUpload/1-2.png) ![Dyuzz'正文界面](/ImagesAll/NetlifyUpload/1-1.png)
+![Home Page](static/ImagesAll/NetlifyUpload/1-1.png)
+![Home Page2](static/ImagesAll/NetlifyUpload/1-2.png)
 
 ## 功能特性
 
