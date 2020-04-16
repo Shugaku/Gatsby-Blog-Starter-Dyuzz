@@ -20,16 +20,16 @@ const {
 } = config;
 
 const Icon = ({ href, icon }) => (
-  <Link
+  <a
     target="_blank"
-    to={href}
+    href={href}
     rel="external nofollow noopener noreferrer"
     className="custom-icon"
   >
     <span className="fa-layers fa-fw fa-2x">
       <FontAwesomeIcon icon={icon} color="#542c85"/>
     </span>
-  </Link>
+  </a>
 );
 
 const Sidebar = ({ totalCount, latestPosts }) => (
