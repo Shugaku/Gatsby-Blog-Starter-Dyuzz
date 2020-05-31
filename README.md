@@ -158,4 +158,4 @@ Thank to GatsbyJS and [Calpa](www.calpa.me) for this open-source codes.
 
 ## Conntext me
 
-If you have any problems, please do not hesitate to contact me. [Dyuzz](www.dyuzz.club) or 706940134@qq.com
+If you have any problems, please do not hesitate to contact me. [Dyuzz](https://www.dyuzz.club/) or 706940134@qq.com
